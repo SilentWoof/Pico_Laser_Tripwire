@@ -20,6 +20,11 @@ A Raspberry Pi Pico-based laser tripwire system that detects changes in ambient 
 - Resistors (as needed)
 - Light source (preferably a laser diode 5v / 5mW)
 
+## 3D Printed Files
+
+Included are 2 3mf files that can be printed on a 3D Printer.
+The files are a 6mm tube for the laser emitter, and another tube for the LDR.
+The tubes help to regulate the ambient light to eliminate false positives.
 
 ## Pin Configuration
 
